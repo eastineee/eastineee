@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Kristine Pascua (eastine) 👋
 
 <!--
 **eastineee/eastineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
