@@ -1,8 +1,8 @@
-I'm Kristine Pascua (eastine)
+## I'm Kristine Pascua (eastine)
 
-Hoppping in the IT world.
+### Hoppping in the IT world.
 
-- 📫 How to reach me: paskytine@gmail.com
+- 📫 Reach me: paskytine@gmail.com
 
 <!--
 **eastineee/eastineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
