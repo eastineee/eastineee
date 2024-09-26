@@ -1,6 +1,6 @@
-## I'm Kristine Pascua (eastine)
+## This is Kristine Pascua (a.k.a eastineee)
 
-### Hoppping in the IT world.
+### Hopping in!!!
 
 - 📫 Reach me: paskytine@gmail.com
 
