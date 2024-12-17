@@ -1,4 +1,4 @@
-## This is Kristine Pascua ;3
+## Kristine Pascua
 
 ### Hopping in!!!
 
